@@ -1,0 +1,8 @@
+torch
+transformers
+sentencepiece
+accelerate
+datasets
+pandas
+sacrebleu
+bert-score

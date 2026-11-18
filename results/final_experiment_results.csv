@@ -1,0 +1,11 @@
+﻿english,direct_japanese,hindi,pivot_japanese,predicted_sense,confidence,clarified_input,wsd_japanese
+I deposited money at the bank.,私は銀行に金を預けた.,मैंने बैंक में पैसा जमा किया।,私は銀行に金を預けた.,financial,0.6567705273628235,I deposited money at the financial institution.,私は金融機関に金を預けた.
+The fisherman sat near the bank of the river.,漁師は川の岸近くに座った.,मछुआरा नदी के किनारे बैठा था।,漁師は川の岸に座っていた.,river,0.546764075756073,The fisherman sat near the shore of the river.,漁師は川の岸近くに座った.
+She opened a bank account yesterday.,彼女は昨日銀行口座を開いた.,उसने कल एक बैंक खाता खोला।,彼は昨日銀行口座を開設した.,financial,0.575881838798523,She opened an account at a financial institution yesterday.,彼女は昨日金融機関で口座を開いた.
+The river overflowed its bank after heavy rain.,"川は激しい雨の後,岸を溢れ渡った.",भारी बारिश के बाद नदी अपने तट से बह गई।,"暴雨の後,川は海岸から流れ去った.",river,0.5485295057296753,The river overflowed its shore after heavy rain.,"川は激しい雨の後,岸を溢れ渡った."
+The company borrowed money from the bank.,会社は銀行からお金を借りた.,कंपनी ने बैंक से पैसा उधार लिया।,会社は銀行からお金を借りた.,financial,0.5675235390663147,The company borrowed money from the financial institution.,会社は金融機関からお金を借りた.
+The boat reached the opposite bank.,船は反対岸に到着した.,नाव विपरीत तट पर पहुंच गई।,船は反対岸に着いた.,river,0.5074046850204468,The boat reached the opposite shore.,船は反対岸に到着した.
+He withdrew cash from the bank.,彼は銀行から現金を引き出した.,उसने बैंक से नकदी निकाली।,彼は銀行から現金を引き出しました,financial,0.6273618340492249,He withdrew cash from the financial institution.,彼は金融機関から現金を引き出しました.
+Children played along the bank of the river.,子供たちは川の岸沿いに遊んでいました.,बच्चे नदी के किनारे खेलते थे।,子供たちは川の辺で遊んでいました,river,0.56166672706604,Children played along the shore of the river.,子供たちは川の岸辺で遊んでいました.
+The bank approved my home loan.,銀行が私の住宅ローンを承認した.,बैंक ने मेरे होम लोन को मंजूरी दी।,銀行が私の住宅ローンを承認した.,financial,0.6120413541793823,The financial institution approved my home loan.,金融機関が私の住宅ローンを承認した.
+The trees along the river bank were damaged.,川岸の木々は損傷した.,नदी के किनारे के पेड़ों को नुकसान हुआ था।,川の果樹は損傷した.,river,0.5398069024085999,The trees along the river shore were damaged.,川岸の木々は損傷した.
