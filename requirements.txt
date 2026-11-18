@@ -6,3 +6,4 @@ datasets
 pandas
 sacrebleu
 bert-score
+scikit-learn
